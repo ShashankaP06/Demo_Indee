@@ -1,0 +1,5 @@
+selenium==4.15.2
+behave==1.2.6
+webdriver-manager==4.0.2
+colorama==0.4.6
+
